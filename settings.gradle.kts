@@ -21,4 +21,4 @@ dependencyResolutionManagement {
 
 rootProject.name = "Calculatricks"
 include(":app")
- 
+include(":aicalculator")
